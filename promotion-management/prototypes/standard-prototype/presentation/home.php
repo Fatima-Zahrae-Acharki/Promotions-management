@@ -54,7 +54,7 @@ if (isset($_GET[""])) {
         <br>
         Promotion name: <input type="text" name="Name">
 
-        <button type="submit" class="btn btn-info">ADD</button> <br> <br>
+        <button type="submit" class="btn btn-info">ADD promo</button> <br> <br>
 
     </form>
     <h4 class="text-center text-info">PROMOTIONS :</h4><br>
